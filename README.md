@@ -1,5 +1,3 @@
-# html
-Aprendizado HTML Básico Fundação Bradesco
 <html>
 <head>
 <title>Criando links</title>
